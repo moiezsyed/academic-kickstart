@@ -75,6 +75,12 @@ subtitle = "Programming Languages + CAE Packages + Others"
   icon_pack = "custom"
   name = "LaTeX"
 
+[[feature]]
+  icon = "postman"
+  icon_pack = "custom"
+  name = "Postman"
+
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
