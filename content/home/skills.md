@@ -21,6 +21,11 @@ subtitle = "Programming Languages + CAE Packages + Others"
  
   
 [[feature]]
+  icon = "c"
+  icon_pack = "custom"
+  name = "C"
+
+[[feature]]
   icon = "306px-ISO_C++_Logo"
   icon_pack = "custom"
   name = "C++"
