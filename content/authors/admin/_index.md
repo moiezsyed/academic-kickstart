@@ -61,4 +61,6 @@ user_groups:
 - Visitors
 ---
 
-I am currently pursuing Masters in Computational Mechanics from the Technical University of Munich, during which I've developed excellent time management and organisational skills due to a series of close-knit coursework deadlines and exams. As a result, I've become incredibly adaptable and able to work under pressure effectively. Working on developing an Optimzation framework in collaboration with BMW, has drawn me into software quality and testing, understanding the importance of optimzation techniques and algorithms, along with the world of machine learning.
+I am currently pursuing Masters in Computational Mechanics from the Technical University of Munich, during which I've developed excellent time management and organisational skills due to a series of close-knit coursework deadlines and exams. As a result, I've become incredibly adaptable and able to work under pressure effectively. 
+
+Working on developing an Optimzation framework in collaboration with BMW, has drawn me into software quality and testing, understanding the importance of optimzation techniques and algorithms, along with the world of machine learning.
