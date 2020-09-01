@@ -5,7 +5,7 @@ tags:
 - Programming
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://www.cie.bgu.tum.de/upload/lehre/softwarelab/sl2019/
+# external_link: https://www.cie.bgu.tum.de/upload/lehre/softwarelab/sl2019/
 
 image:
   caption: Map mesh 
